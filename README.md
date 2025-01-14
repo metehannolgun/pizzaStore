@@ -1,4 +1,4 @@
-Here’s the English version of the updated README:
+
 
 ---
 
