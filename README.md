@@ -2,7 +2,7 @@
 
 ---
 
-# 🍽️ FoodOrder
+# 🍽️ pizzaStore
 
 FoodOrder is a modern and user-friendly web application for online food ordering. Users can filter foods by categories, search for specific dishes, add items to the cart, and complete their orders.
 
@@ -35,7 +35,7 @@ FoodOrder is a modern and user-friendly web application for online food ordering
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/metehannolgun/foodOrder.git
+   git clone https://github.com/metehannolgun/pizzaStore.git
    cd foodOrder
    ```
 
